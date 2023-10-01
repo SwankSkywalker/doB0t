@@ -1,0 +1,15 @@
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/bin/Debug/net7.0/doBot
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/bin/Debug/net7.0/doBot.deps.json
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/bin/Debug/net7.0/doBot.runtimeconfig.json
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/bin/Debug/net7.0/doBot.dll
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/bin/Debug/net7.0/doBot.pdb
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/obj/Debug/net7.0/doBot.csproj.AssemblyReference.cache
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/obj/Debug/net7.0/doBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/obj/Debug/net7.0/doBot.AssemblyInfoInputs.cache
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/obj/Debug/net7.0/doBot.AssemblyInfo.cs
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/obj/Debug/net7.0/doBot.csproj.CoreCompileInputs.cache
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/obj/Debug/net7.0/doBot.dll
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/obj/Debug/net7.0/refint/doBot.dll
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/obj/Debug/net7.0/doBot.pdb
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/obj/Debug/net7.0/doBot.genruntimeconfig.cache
+/Users/swank/Documents/code/p/sandbox/csharp/projects/doBot/doBot/obj/Debug/net7.0/ref/doBot.dll
